@@ -47,7 +47,7 @@ A passionate developer and engineering student, interested in AI, full-stack pro
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=httpdevl&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=httpsdevi)](https://github.com/httpsdevi/github-readme-stats))
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=httpdevl&layout=compact&theme=dark)
 
 ---
