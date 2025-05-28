@@ -35,10 +35,10 @@ A passionate developer and engineering student, interested in AI, full-stack pro
 - **[NPP-PARAMETER-UPDATE-SYSTEM](https://github.com/httpdevl/NPP-PARAMETER-UPDATE-SYSTEM)**  
   A system designed to enhance the safety, efficiency, and compliance of nuclear power plants.
 
-- **[Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis]([https://github.com/httpdevl/social-media-app](https://github.com/httpsdevi/Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis))**  
+- **[Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis](https://github.com/httpsdevi/Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis))**  
   A full-stack MERN project with authentication and real-time features.
 
-- **[Product-Recommendation-System]([https://github.com/httpdevl/NPP-PARAMETER-UPDATE-SYSTEM](https://github.com/httpsdevi/Product-Recommendation-System))**  
+- **[Product-Recommendation-System](https://github.com/httpsdevi/Product-Recommendation-System)**  
   A system designed to enhance the safety, efficiency, and compliance of nuclear power plants.
 
   
