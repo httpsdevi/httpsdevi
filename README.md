@@ -1,4 +1,4 @@
-# Hi there! I'm Deblina Mandal
+# Hello there! I'm Deblina Mandal
 
 A passionate developer and engineering student, interested in AI, full-stack projects, and automation. I love exploring new technologies and building cool things.
 
@@ -35,8 +35,13 @@ A passionate developer and engineering student, interested in AI, full-stack pro
 - **[NPP-PARAMETER-UPDATE-SYSTEM](https://github.com/httpdevl/NPP-PARAMETER-UPDATE-SYSTEM)**  
   A system designed to enhance the safety, efficiency, and compliance of nuclear power plants.
 
-- **[Social Media App](https://github.com/httpdevl/social-media-app)**  
+- **[Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis]([https://github.com/httpdevl/social-media-app](https://github.com/httpsdevi/Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis))**  
   A full-stack MERN project with authentication and real-time features.
+
+- **[Product-Recommendation-System]([https://github.com/httpdevl/NPP-PARAMETER-UPDATE-SYSTEM](https://github.com/httpsdevi/Product-Recommendation-System))**  
+  A system designed to enhance the safety, efficiency, and compliance of nuclear power plants.
+
+  
 
 ---
 
@@ -50,4 +55,4 @@ A passionate developer and engineering student, interested in AI, full-stack pro
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mandaldeblina19@gmail.com)
