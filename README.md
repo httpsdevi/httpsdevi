@@ -47,8 +47,8 @@ A passionate developer and engineering student, interested in AI, full-stack pro
 
 ## 📈 GitHub Stats
 
-![Deblina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=httpdevl&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpdevl&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=httpdevl&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=httpdevl&layout=compact&theme=dark)
 
 ---
 
