@@ -1,8 +1,8 @@
 # Hello there! I'm Deblina Mandal
 
-🎓 B.Tech in Computer Science and Engineering | KIIT University, Bhubaneswar
-📍 Kolkata, India
-💼 Aspiring Business Analyst | Data Analyst | Software Engineer
+-🎓 B.Tech in Computer Science and Engineering | KIIT University, Bhubaneswar
+-📍 Kolkata, India
+- 💼 Aspiring Business Analyst | Data Analyst | Software Engineer
 
 I’m a tech enthusiast passionate about building data-driven and user-focused solutions. My interests lie at the intersection of analytics, visualization, and full-stack development. I love transforming raw data into insights and ideas into responsive, functional applications.
 
@@ -46,6 +46,9 @@ I’ve completed multiple internships at NPCIL, where I worked on a fully respon
 
 - **[Housing Price Prediction](https://colab.research.google.com/drive/1t8u6dzUdum6SD2xe2zZ-0RECHXK1RXSh?usp=sharing)**  
  This project focuses on building a machine learning model to predict real estate prices using the Bangalore home prices dataset from Kaggle.
+
+- **[Exploratory Data Analysis on Netflix Content](https://colab.research.google.com/drive/12NMrgDi1JUWuNFluomJXR3iWHYWlNbr_?usp=sharing)**
+  This project performs Exploratory Data Analysis (EDA) on a Netflix dataset to extract meaningful insights about the platform’s content over the years. The goal is to analyze trends in movies and TV shows, understand release patterns, content types, ratings, and regional availability.
   
 
 ---
