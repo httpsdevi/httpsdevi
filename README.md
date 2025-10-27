@@ -38,10 +38,10 @@ I’ve completed multiple internships at NPCIL, where I worked on a fully respon
 
 ## 📌 Featured Projects
 
-- **[NPP-PARAMETER-UPDATE-SYSTEM]((https://npp-parameter-update-system.netlify.app/))**  
+- **[NPP-PARAMETER-UPDATE-SYSTEM](https://npp-parameter-update-system.netlify.app/)**  
   A system designed to enhance the safety, efficiency, and compliance of nuclear power plants.
 
-- **[Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis]((https://colab.research.google.com/drive/1Tnr92mV1L4v9o06wEcrRRsZJP_tfkQ1f?usp=sharing)))**  
+- **[Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis](https://colab.research.google.com/drive/1Tnr92mV1L4v9o06wEcrRRsZJP_tfkQ1f?usp=sharing)**  
   This project performs Sentiment Analysis on textual data using Python and Natural Language Processing (NLP) techniques. The goal is to analyze large sets of text and classify each piece of text as Positive,  Negative, or Neutral based on its sentiment.
 
 - **[Housing Price Prediction](https://colab.research.google.com/drive/1t8u6dzUdum6SD2xe2zZ-0RECHXK1RXSh?usp=sharing)**  
