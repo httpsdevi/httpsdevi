@@ -1,11 +1,17 @@
 # Hello there! I'm Deblina Mandal
 
-A passionate developer and engineering student, interested in AI, full-stack projects, and automation. I love exploring new technologies and building cool things.
+🎓 B.Tech in Computer Science and Engineering | KIIT University, Bhubaneswar
+📍 Kolkata, India
+💼 Aspiring Business Analyst | Data Analyst | Software Engineer
 
-## 🚀 Skills & Technologies
+I’m a tech enthusiast passionate about building data-driven and user-focused solutions. My interests lie at the intersection of analytics, visualization, and full-stack development. I love transforming raw data into insights and ideas into responsive, functional applications.
+
+I’ve completed multiple internships at NPCIL, where I worked on a fully responsive internal web application with front-end (HTML, CSS, JS), Java REST APIs, and Power BI dashboards for data reporting and automation.
+
 
 ### 🧠 Programming & Core Concepts
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=java&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -32,15 +38,14 @@ A passionate developer and engineering student, interested in AI, full-stack pro
 
 ## 📌 Featured Projects
 
-- **[NPP-PARAMETER-UPDATE-SYSTEM](https://github.com/httpdevl/NPP-PARAMETER-UPDATE-SYSTEM)**  
+- **[NPP-PARAMETER-UPDATE-SYSTEM]((https://npp-parameter-update-system.netlify.app/))**  
   A system designed to enhance the safety, efficiency, and compliance of nuclear power plants.
 
-- **[Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis](https://github.com/httpsdevi/Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis))**  
-  A full-stack MERN project with authentication and real-time features.
+- **[Customer-Insights-Dashboard-with-AI-Powered-Text-Generation-and-Sentiment-Analysis]((https://colab.research.google.com/drive/1Tnr92mV1L4v9o06wEcrRRsZJP_tfkQ1f?usp=sharing)))**  
+  This project performs Sentiment Analysis on textual data using Python and Natural Language Processing (NLP) techniques. The goal is to analyze large sets of text and classify each piece of text as Positive,  Negative, or Neutral based on its sentiment.
 
-- **[Product-Recommendation-System](https://github.com/httpsdevi/Product-Recommendation-System)**  
-  A system designed to enhance the safety, efficiency, and compliance of nuclear power plants.
-
+- **[Housing Price Prediction](https://colab.research.google.com/drive/1t8u6dzUdum6SD2xe2zZ-0RECHXK1RXSh?usp=sharing)**  
+ This project focuses on building a machine learning model to predict real estate prices using the Bangalore home prices dataset from Kaggle.
   
 
 ---
