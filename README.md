@@ -12,7 +12,7 @@ I’ve completed multiple internships at NPCIL, where I worked on a fully respon
 ### 🧠 Programming & Core Concepts
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=java&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![React.js](https://img.shields.io/badge/React.js-000000?style=flat&logo=React.js)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
